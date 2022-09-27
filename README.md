@@ -5,6 +5,7 @@
 
 <a href="https://samujjwaal.me/"><img src="https://github.com/kubaklatt/kubaklatt/blob/main/laptop-removebg-preview.png" align="right" height="275" /></a>
 
+Aspiring to be a Frontend Developer 🌐. Lover of travel ✈️, e-sport 🎮 and chess ♟️.
 
 
 ---
