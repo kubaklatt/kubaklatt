@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi! 🐱‍💻
 
-<!--
-**kubaklatt/kubaklatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Jakub%20Klatt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakubklatt/ "Connect on LinkedIn")
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/kubaklatt/ "Follow on Instagram")
 
-Here are some ideas to get you started:
+<a href="https://samujjwaal.me/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/hand_v.png" align="right" height="275" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+---
+
+My stats:</summary>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kubaklatt&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
